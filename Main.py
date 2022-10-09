@@ -18,6 +18,8 @@ print(len(abecedario))
 print('sandia' in fruta)
 print('y' in abecedario)
 
+
+
 fruta.insert(2,'kiwi')
 print(fruta)
 #Otra vez, las tuplas no se pueden modificar.
@@ -36,3 +38,5 @@ persona={
   'mascotas':['Lolo','Lola']
 }
 
+print(flores)
+print(persona)
